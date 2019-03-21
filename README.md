@@ -9,3 +9,5 @@ Nie ma żadnych.
 ### Licencja
 
 MIT
+
+Sprawdzam...
