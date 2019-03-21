@@ -5,3 +5,7 @@ Celem tego repozytorium jest zapoznanie się z gitem.
 ## Wymagania
 
 Nie ma żadnych.
+
+### Licencja
+
+MIT
