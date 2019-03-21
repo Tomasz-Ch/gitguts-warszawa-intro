@@ -14,3 +14,5 @@ Sprawdzam...
 
 
 CC
+
+## to jest edycja na stronie GitHuba
